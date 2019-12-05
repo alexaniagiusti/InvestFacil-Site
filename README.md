@@ -1,12 +1,12 @@
 Site Institucional Invest Fácil
 
-#Mini Dólar
+#MiniDólar
 #Rentabilidade
 #Commodities
 #Forex
 #Volatividade
 #Robôs de Investimento
-#Mini Index
+#MiniIndex
 #Bitcoin
 
 # InvestFacil-Site
